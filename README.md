@@ -71,11 +71,7 @@ I personally worked on:
 - Developing and testing movement controls
 - Troubleshooting hardware and manufacturing problems
 
-### AI Assistance
 
-I used AI assistance to generate the ESP-NOW communication code.
-
-My own programming contributions focused on the interface, movement controls, adjustable settings, and system testing.
 
 ## Current Status
 
